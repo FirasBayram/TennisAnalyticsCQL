@@ -1,0 +1,1 @@
+CREATE INDEX index1 ON tennis.q6 (winner_name);

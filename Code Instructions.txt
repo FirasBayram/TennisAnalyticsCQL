@@ -1,0 +1,6 @@
+in the Datasets folder, i have uploaded the origional dataset ATP.csv.
+i also uploaded the datasets used for each query 'after preparing them using Python scripts' using the query number as a name for each csv file.
+
+in the CQLScripts Folder, for each query, i uploaded the scripts i used to create the table (named as the query number), inserting the data in the table (appended copy or insert to its name) and a SELECT example (appended select to its name).
+
+wstats and lstats scripts create two collection types for winner_stats and loser_stats.
